@@ -4,13 +4,14 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart/README.md)
+* [Sunucu Kurulum](getting-started/quickstart/README.md)
   * [Apache Server](getting-started/quickstart/apache-server/README.md)
     * [Apache Kurulum](getting-started/quickstart/apache-server/apache-kurulum.md)
     * [Apache Silme](getting-started/quickstart/apache-server/apache-silme.md)
   * [Nginx Server](getting-started/quickstart/nginx-server/README.md)
     * [Nginx Kurulum](getting-started/quickstart/nginx-server/nginx-kurulum.md)
     * [Nginx Silme](getting-started/quickstart/nginx-server/nginx-silme.md)
+  * [PM2 Kurulumu](getting-started/quickstart/pm2-kurulumu.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
